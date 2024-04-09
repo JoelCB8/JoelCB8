@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JoelCB8
-- 👀 I’m interested in improving at C coding
+- 👀 I’m interested in cybersecurity
 - 🌱 I’m currently learning coding C
 - 💞️ I’m looking to collaborate on simple projects for now
 
